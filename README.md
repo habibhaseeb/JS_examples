@@ -20,5 +20,5 @@ console.log(Array.isArray('[]')); // false
 
 console.log(Array.isArray(new Array(12))); // true because of number
 
-console.log(Array.isArray(Int16Array([1,2,552]))); // false value
+console.log(Array.isArray(Int16Array([1,2,552]))); // false value Int16Array refers to typed array.
  ```
