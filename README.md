@@ -2,7 +2,7 @@
 The Promise.resolve static method can be used to wrap values into promises.
 In fact, value can be any "thenable" (object defining a then method that works sufficiently like a spec-compliant
 promise)
-_________________________________________
+____________________________________
 ## Custom Methods of arrays in js
  ### Array.isArray
 So lets, start with simple one Array.isArray() method. The Array.isArray() method is static method determines whether the passed value is an Array.
