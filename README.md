@@ -22,5 +22,5 @@ console.log(Array.isArray(new Array(12))); // true because of number
 
 console.log(Array.isArray(Int16Array([1,2,552]))); // false value Int16Array refers to typed array.
  ```
-### Modules in js
+### 👉 Modules in js
  Modules are moduler and best way to write exist in newer and latest coding skills. Modules help developers to write code in best way for learning methods.
